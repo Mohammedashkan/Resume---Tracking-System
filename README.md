@@ -7,7 +7,7 @@ Steps
 ```
 
 ```bash
-1. git clone https://github.com/Mohammedashkan/Application-Tracking-System.git 
+1. git clone https://github.com/Mohammedashkan/Resume---Tracking-System.git 
 ``` 
 
 ```bash 
