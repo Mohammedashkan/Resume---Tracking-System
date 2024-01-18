@@ -36,7 +36,8 @@ You can now view your Streamlit app in your browser.
 ![Alt text](image-1.png)
 
 
-![Alt text](image.png)
+
+![Screenshot 2024-01-18 164714](https://github.com/Mohammedashkan/Resume---Tracking-System/assets/65010721/1c363bfe-b033-4349-8878-70685194e20f)
 
 
 
